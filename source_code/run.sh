@@ -1,1 +1,0 @@
-java -Xmx20g -cp dist/lib/ -jar dist/Intent-Aware-Privacy-Protection.jar
