@@ -1,0 +1,17 @@
+number of cover queries = 2
+client side re-ranking = off
+number of threads = 20
+interval in hours = 12
+total documents in AOL index = 1051483
+remove stopwords from cover query = no
+generate stemmed cover query = no
+lucene AOL index directory = ../lucene_AOL_index/
+lucene ODP index directory = ../lucene_DMOZ_index/
+users search log directory = data/user_search_logs/
+reference model file = data/reference_model
+AOL document frequency record = data/aol_dictionary
+ODP hierarchy file = data/odp_doc_content.xml
+background knowledge file = data/background_information
+transition matrix file = data/transition_probabilities
+transition probability file = data/transition_info
+output directory = model_output_files/

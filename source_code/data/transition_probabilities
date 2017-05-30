@@ -1,0 +1,98 @@
+257239
+initial_state to initial_state 0
+initial_state to up1 0
+initial_state to up2 0
+initial_state to down1 78
+initial_state to down2 11461
+initial_state to same 0
+initial_state to same_parent 0
+initial_state to same_grandparent 0
+initial_state to others 245700
+
+368
+up1 to initial_state 0
+up1 to up1 0
+up1 to up2 0
+up1 to down1 62
+up1 to down2 0
+up1 to same 110
+up1 to same_parent 3
+up1 to same_grandparent 9
+up1 to others 184
+
+3
+up2 to initial_state 0
+up2 to up1 0
+up2 to up2 0
+up2 to down1 0
+up2 to down2 1
+up2 to same 0
+up2 to same_parent 0
+up2 to same_grandparent 0
+up2 to others 2
+
+431
+down1 to initial_state 0
+down1 to up1 31
+down1 to up2 0
+down1 to down1 1
+down1 to down2 1
+down1 to same 135
+down1 to same_parent 34
+down1 to same_grandparent 26
+down1 to others 203
+
+11118
+down2 to initial_state 0
+down2 to up1 1
+down2 to up2 0
+down2 to down1 237
+down2 to down2 0
+down2 to same 2964
+down2 to same_parent 78
+down2 to same_grandparent 278
+down2 to others 7560
+
+107123
+same to initial_state 0
+same to up1 125
+same to up2 2
+same to down1 108
+same to down2 1
+same to same 58852
+same to same_parent 2421
+same to same_grandparent 7405
+same to others 38209
+
+8325
+same_parent to initial_state 0
+same_parent to up1 32
+same_parent to up2 0
+same_parent to down1 1
+same_parent to down2 0
+same_parent to same 2478
+same_parent to same_parent 1556
+same_parent to same_grandparent 833
+same_parent to others 3425
+
+30221
+same_grandparent to initial_state 0
+same_grandparent to up1 23
+same_grandparent to up2 0
+same_grandparent to down1 5
+same_grandparent to down2 0
+same_grandparent to same 7326
+same_grandparent to same_parent 869
+same_grandparent to same_grandparent 6870
+same_grandparent to others 15128
+
+406857
+others to initial_state 0
+others to up1 431
+others to up2 3
+others to down1 184
+others to down2 2
+others to same 111366
+others to same_parent 9723
+others to same_grandparent 38202
+others to others 246946
