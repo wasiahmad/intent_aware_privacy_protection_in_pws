@@ -13,10 +13,7 @@ To run the core part of the entire pipeline, we need some pre-generated data whi
 
 # Workflow
 
-### Users' Query Intent Classification
-
-
-### Intent-aware Cover Query Generation
+To learn about complete workflow, please see the [project wiki page](https://github.com/wasiahmad/intent_aware_privacy_protection_in_pws/wiki/How-Full-Pipeline-Works).
 
 
 
