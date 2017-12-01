@@ -6,6 +6,6 @@ In this work, we propose a client-centered intent-aware query obfuscation soluti
 
 <p align="center">
 <br>
-<img src="https://writelatex.s3.amazonaws.com/jvwbdghbgxtv/uploads/7386/9674788/1.png" width="90%">
+<img src="https://i.imgur.com/wKdSxB2.png" width="90%">
 <br>Figure: Intent-aware Query-obfuscation for Privacy-protection (IQP) Framework
 <p align="center">
